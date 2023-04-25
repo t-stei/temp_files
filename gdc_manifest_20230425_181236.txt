@@ -1,0 +1,3 @@
+id	filename	md5	size	state
+093ce1ff-a62f-4db2-b149-9840366eec1b	4d2e635a-01aa-48ca-a8e6-ee7fd5523844_noid_Grn.idat	86c1d5381f2508f065b2e5ba48d3ef8e	8095256	validated
+66b0d292-3f29-4458-9bc4-f970607f2749	a5d5621d-6334-40a8-bee2-184bc04f5e86_noid_Red.idat	e4b68948812616d3ac6db92d0a2975a4	8095280	validated
